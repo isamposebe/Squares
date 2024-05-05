@@ -1,0 +1,15 @@
+F:\work\Squares\SquaresConsole\bin\Debug\net8.0\SquaresConsole.exe
+F:\work\Squares\SquaresConsole\bin\Debug\net8.0\SquaresConsole.deps.json
+F:\work\Squares\SquaresConsole\bin\Debug\net8.0\SquaresConsole.runtimeconfig.json
+F:\work\Squares\SquaresConsole\bin\Debug\net8.0\SquaresConsole.dll
+F:\work\Squares\SquaresConsole\bin\Debug\net8.0\SquaresConsole.pdb
+F:\work\Squares\SquaresConsole\obj\Debug\net8.0\SquaresConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\work\Squares\SquaresConsole\obj\Debug\net8.0\SquaresConsole.AssemblyInfoInputs.cache
+F:\work\Squares\SquaresConsole\obj\Debug\net8.0\SquaresConsole.AssemblyInfo.cs
+F:\work\Squares\SquaresConsole\obj\Debug\net8.0\SquaresConsole.csproj.CoreCompileInputs.cache
+F:\work\Squares\SquaresConsole\obj\Debug\net8.0\SquaresConsole.sourcelink.json
+F:\work\Squares\SquaresConsole\obj\Debug\net8.0\SquaresConsole.dll
+F:\work\Squares\SquaresConsole\obj\Debug\net8.0\refint\SquaresConsole.dll
+F:\work\Squares\SquaresConsole\obj\Debug\net8.0\SquaresConsole.pdb
+F:\work\Squares\SquaresConsole\obj\Debug\net8.0\SquaresConsole.genruntimeconfig.cache
+F:\work\Squares\SquaresConsole\obj\Debug\net8.0\ref\SquaresConsole.dll
